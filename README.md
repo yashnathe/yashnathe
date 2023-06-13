@@ -1,21 +1,21 @@
 <img align="middle" alt="Coding" height="300" width="1900" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <h1 align="center">Hi 👋, I'm Yash Nathe</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate MEAN & MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" width="300" src="https://api.kaltimprov.go.id/img/gifs/think.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashnathe&label=Profile%20views&color=0e75b6&style=flat" alt="yashnathe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yashnathe360" target="blank"><img src="https://img.shields.io/twitter/follow/yashnathe360?logo=twitter&style=for-the-badge" alt="yashnathe360" /></a> </p>
 
-- 🔭 I’m currently working on **Real time chat Application**
+- 🔭 I’m currently working on **MEAN & MERN Stack Web Development**
 
 - 🌱 I’m currently learning **Angular, ReactJS, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://yash-nathe-portfolio-website.netlify.app/](https://yash-nathe-portfolio-website.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yashnathe-portfolio.netlify.app/](https://yashnathe-portfolio.netlify.app/)
 
-- 💬 Ask me about **Angular, ReactJS, TypeScript**
+- 💬 Ask me about **Angular, ReactJS, TypeScript, JavaScript**
 
-- 📫 How to reach me **yashnathe360@gmail.com**
+- 📫 How to reach me **yashnathe2601@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
